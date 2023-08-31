@@ -1,2 +1,1 @@
-Voltage seems to drop as it progresses through the circuit while current is constant throughout the circuit. The risistance in ohms also causes both the current and voltage to drop
-although the current in the whole circuit drops whereas voltage drops after the resistive component.
+Voltage seems to drop as it progresses through the circuit while current is constant throughout the circuit. The risistance in ohms also causes both the current and voltage to drop although the current in the whole circuit drops whereas voltage drops after the resistive component. The current is what actually does the work and the voltage pushes the current though.
